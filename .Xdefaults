@@ -1,0 +1,46 @@
+! special
+URxvt.foreground:   #bacdcd
+URxvt.depth: 32
+URxvt.background:   [95]#0e1010
+URxvt.cursorColor:  #bacdcd
+
+! black
+URxvt.color0:       #171a1a
+URxvt.color8:       #fedb25
+
+! red
+URxvt.color1:       #1f2323
+URxvt.color9:       #89b2f6
+
+! green
+URxvt.color2:       #2f3534
+URxvt.color10:      #f2d34d
+
+! yellow
+URxvt.color3:       #454c4c
+URxvt.color11:      #31cfce
+
+! blue
+URxvt.color4:       #606a6a
+URxvt.color12:      #5df8f7
+
+! magenta
+URxvt.color5:       #818e8e
+URxvt.color13:      #fcdbdb
+
+! cyan
+URxvt.color6:       #a7b7b7
+URxvt.color14:      #fcd3f9
+
+! white
+URxvt.color7:       #d2e7e6
+URxvt.color15:      #52c1c0
+
+URxvt.font:                     xft:MesloLGL Nerd Font:autohint=true:size=11:antialias=true,xft:MesloLGL Nerd Font:pixelsize=11:antialias=true
+URxvt.boldFont:                 xft:MesloLGL Nerd Font:autohint=true:bold:size=11:antialias=true,MesloLGL Nerd Font:pixelsize=11:antialias=true
+URxvt.italicFont:               xft:MesloLGL Nerd Font:autohint=true:italic:size=11:antialias=true,MesloLGL Nerd Font:pixelsize=11:antialias=true
+URxvt.boldItalicFont:           xft:MesloLGL Nerd Font:autohint=true:bold:italic:size=11:antialias=true,MesloLGL Nerd Font:pixelsize=11:antialias=true
+URxvt.termName:			rxvt-unicode-256color
+URxvt.cursorBlink:		true
+URxvt.scrollBar:		false
+URxvt.scrollBar_right:		false
